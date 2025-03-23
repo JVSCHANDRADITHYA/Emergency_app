@@ -2,7 +2,7 @@
 
 | Emergency SOS                          | Health Analytics                              |
 | -------------------------------------- | ---------------------------------- -----------|
-| ![SOS](KOTLIN_APP/screenshots/sos.jpg) | ![Analytics](KOTLIN_APP/screenshots/data.jpg) |
+| ![SOS](sos.jpg)                        | ![Analytics](sos.jpg)                         x  |
 
 
 ## Key Features ✨
