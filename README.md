@@ -1,23 +1,16 @@
-## Screenshots 📸
-
-| Emergency SOS                          | Health Analytics                              |
-| -------------------------------------- | ---------------------------------- -----------|
-| ![SOS](sos.jpg)                        | ![Analytics](sos.jpg)                         x  |
-
-
 ## Key Features ✨
 
 - **Emergency SOS**  
   ⚡ Instant emergency call button with haptic feedback  
-  📍 Automatic location sharing with emergency contacts  
+  📍 Automatic location sharing with emergency contacts
 
-- **Real-time Sensor Monitoring**   
+- **Real-time Sensor Monitoring**  
   🌀 Gyroscope orientation visualization  
   🌡️ Ambient temperature sensing
 
 - **Health History**  
   📈 24-hour timeline of sensor data  
-  📊 Interactive charts and graphs  
+  📊 Interactive charts and graphs
 
 ## Getting Started 🚀
 
@@ -40,3 +33,8 @@
    <uses-permission android:name="android.permission.BODY_SENSORS"/>
    ```
 
+## Screenshots 📸
+
+| Emergency SOS               | Sensor data                        |
+| --------------------------- | ---------------------------------- |
+| ![SOS](screenshots/sos.jpg) | ![Analytics](screenshots/data.jpg) |
