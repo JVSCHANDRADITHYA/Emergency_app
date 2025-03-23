@@ -1,3 +1,10 @@
+## Screenshots 📸
+
+| Emergency SOS                          | Health Analytics                              |
+| -------------------------------------- | ---------------------------------- -----------|
+| ![SOS](KOTLIN_APP\screenshots\sos.jpg) | ![Analytics](KOTLIN_APP\screenshots\data.jpg) |
+
+
 ## Key Features ✨
 
 - **Emergency SOS**  
@@ -33,8 +40,3 @@
    <uses-permission android:name="android.permission.BODY_SENSORS"/>
    ```
 
-## Screenshots 📸
-
-| Emergency SOS               | Health Analytics                   |
-| --------------------------- | ---------------------------------- |
-| ![SOS](screenshots/sos.jpg) | ![Analytics](screenshots/data.jpg) |
